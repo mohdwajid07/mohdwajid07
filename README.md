@@ -1,10 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Mohd Wajid</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&width=600&lines=Computer+Science+@+NIT+Delhi;Full-Stack+Developer+%7C+IoT+Enthusiast;900%2B+LeetCode+Problems+Solved;Passionate+about+Technology+%26+Innovation" alt="Typing Animation">
-</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&width=600&lines=Computer+Science+@+NIT+Delhi;Full-Stack+Developer+%7C+IoT+Enthusiast;900%2B+LeetCode+Problems+Solved;Passionate+about+Technology+%26+Innovation" alt="Typing Animation">
 </p>
 
 ---
@@ -14,13 +11,13 @@
 💡 **Full-Stack Developer & IoT Enthusiast**  
 🏆 **Competitive Programmer | 900+ LeetCode Problems Solved**  
 🔭 **Built Assistive Vision Glasses for the Visually Impaired**  
-🌱 **Currently Learning:** System Design & AI/ML  
+🌱 **Currently Learning:** **DSA & AI/ML**  
 ⚡ **Hobbies:** Football, Ice Hockey, Graphic Designing  
 
 ---
 
 ## 🏆 Achievements  
-🔥 **LeetCode:** 900+ Problems | **Top 20%** | Max Rating: **1700+**  
+🔥 **LeetCode:** 900+ Problems | **Top 10%** | Max Rating: **1700+**  
 🔥 **Codeforces:** 100+ Problems | Max Rating: **1200 (Pupil)**  
 🔥 **Coding Ninjas:** 700+ Problems | **Top 10%**  
 🥇 **Rank 1** out of 100 teams in DTU Coding Competition  
